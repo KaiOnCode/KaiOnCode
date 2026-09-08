@@ -1,4 +1,4 @@
-## Kai
+## About Me
 
 MSc Computer Science, The University of Hong Kong.
 
