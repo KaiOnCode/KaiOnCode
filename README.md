@@ -1,10 +1,10 @@
 ## About Me
 
-MSc Computer Science, The University of Hong Kong.
+Master in Computer Science, The University of Hong Kong.
 
 ### Research Interests
 
-LLM Agent Systems, Tool-use Frameworks, AI Evaluation
+Agent Harness, NLP, Quantitative Trading, ML.
 
 ### Open Source Contributions
 
