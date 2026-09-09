@@ -6,6 +6,10 @@ Master in Computer Science, The University of Hong Kong.
 
 Agent Harness, NLP, Quantitative Trading, ML.
 
+### Projects
+
+- [KaiOnCode/QuanTable](https://github.com/KaiOnCode/QuanTable) — Multi-agent quantitative analysis with debate-driven investment reasoning.
+
 ### Open Source Contributions
 
 | Project | Description |
